@@ -1,0 +1,9 @@
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp
+build/
+tests/generated.ptx
+tests/generated.cubin
